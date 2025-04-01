@@ -1,0 +1,38 @@
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Styling the header */
+.title {
+    color: #333;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+/* Styling the paragraph */
+.description {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Styling the image */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #333;
+    border-radius: 10px;
+    width: 80%;
+}
+
+/* Styling the list */
+#features {
+    list-style-type: square;
+    padding-left: 20px;
+    color: #007BFF;
+}
